@@ -14,6 +14,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-API-green.svg?logo=whatsapp)](https://whatsapp.com)
 [![Node.js](https://img.shields.io/badge/Node.js-20%2B-green.svg)](https://nodejs.org)
 
+
 ### Installation
 
 ```bash
@@ -22,13 +23,17 @@ npm install @elrayyxml/baileys
 yarn add @elrayyxml/baileys
 ```
 
+
 ### Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elrayyxml)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tik-tok.com/@elrayyxml)
 
+
 ### Official Channel
+
 > Link Channel [Click Here](https://whatsapp.com/channel/0029Vb69z8n1dAvztHQTDu3r)
+
 
 ### thanks to
 
