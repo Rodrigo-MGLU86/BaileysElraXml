@@ -26,3 +26,12 @@ yarn add @elrayyxml/baileys
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elrayyxml)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tik-tok.com/@elrayyxml)
+
+### Official Channel
+> Link Channel [Click Here](https://whatsapp.com/channel/0029Vb69z8n1dAvztHQTDu3r)
+
+### thanks to
+
+> WhiskeySockets
+> Nstar
+> Techwiz
