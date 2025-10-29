@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/@elrayyxml/baileys.svg)](https://www.npmjs.com/package/@elrayyxml/baileys)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-API-green.svg?logo=whatsapp)](https://whatsapp.com)
-[![Node.js](https://img.shields.io/badge/Node.js-14%2B-green.svg)](https://nodejs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-20%2B-green.svg)](https://nodejs.org)
 
 Library WhatsApp Web API yang powerful dan terpercaya untuk Node.js, dikembangkan berdasarkan Baileys dengan berbagai peningkatan dan fitur tambahan.
 
@@ -37,8 +37,8 @@ This project is not affiliated with WhatsApp Inc. Use it responsibly. Avoid spam
 
 ## 📄 License
 
-MIT © 2024 elrayyxml Network
+MIT © 2025 elrayyxml Network
 
 ---
 
-**Dibuat dengan ❤️ oleh [elrayyxml](https://github.com/elrayyxml)**
+**Dibuat dengan ❤️ oleh [elrayyxml](https://github.com/ElrayyXml)**
