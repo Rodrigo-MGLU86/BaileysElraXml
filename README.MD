@@ -31,24 +31,7 @@ yarn add @elrayyxml/baileys
 }
 ```
 
-### participant groupMetaData
-
-```bash
-participants.some(participant => participant.jid === sender && participant.admin); // jid 62xxx@s.whatsapp.net, id 123xxx@lid, lid 123xxx@lid
-```
-
-### participant groupUpdate
-
-```json
-{
-  id: remoteJid,
-  action: add,
-  participant: jid
-}
-```
-
-
-### Contact
+### Social Media
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elrayyxml)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tik-tok.com/@elrayyxml)
@@ -57,6 +40,20 @@ participants.some(participant => participant.jid === sender && participant.admin
 ### Official Channel
 
 > Link Channel [Click Here](https://whatsapp.com/channel/0029Vb69z8n1dAvztHQTDu3r)
+
+<div align="center">
+p>
+  <a href="https://www.npmjs.com/package/@elrayyxml/baileys">
+    <img src="https://img.shields.io/npm/v/@elrayyxml/baileys?color=00b894&label=version&logo=npm" alt="npm version" />
+  </a>
+  <a href="https://www.npmjs.com/package/@elrayyxml/baileys">
+    <img src="https://img.shields.io/npm/dt/@elrayyxml/baileys?color=0984e3&label=downloads&logo=npm" alt="npm downloads" />
+  </a>
+  <a href="https://whatsapp.com/channel/0029Vb69z8n1dAvztHQTDu3r">
+    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
+  </a>
+</p>
+</div>
 
 
 ### thanks to
