@@ -39,15 +39,7 @@ yarn add @elrayyxml/baileys
 
 ### Official Channel
 
-> Link Channel [Click Here](https://whatsapp.com/channel/0029Vb69z8n1dAvztHQTDu3r)
-
 <div align="center">
-  <a href="https://www.npmjs.com/package/@elrayyxml/baileys">
-    <img src="https://img.shields.io/npm/v/@elrayyxml/baileys?color=00b894&label=version&logo=npm" alt="npm" />
-  </a>
-  <a href="https://www.npmjs.com/package/@elrayyxml/baileys">
-    <img src="https://img.shields.io/npm/dt/@elrayyxml/baileys?color=0984e3&label=downloads&logo=npm" alt="npm downloads" />
-  </a>
   <a href="https://whatsapp.com/channel/0029Vb69z8n1dAvztHQTDu3r">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
   </a>
@@ -57,5 +49,7 @@ yarn add @elrayyxml/baileys
 ### thanks to
 
 > WhiskeySockets
+>
 > Nstar
+>
 > Techwiz
