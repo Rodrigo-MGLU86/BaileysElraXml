@@ -1,6 +1,6 @@
 {
   "name": "@elrayyxml/baileys",
-  "version": "1.1.0-rc.6",
+  "version": "1.0.0-rc.6",
   "description": "Baileys Modified ElrayyXml",
   "keywords": [
     "baileys",
@@ -122,16 +122,9 @@
   },
   "directories": {
     "lib": "lib"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://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@github.com/ElrayyXml/Baileys.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ElrayyXml/Baileys/issues"
   }
-
 }
+
 
 
 
