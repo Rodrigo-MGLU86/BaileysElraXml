@@ -60,10 +60,12 @@ yarn add @elrayyxml/baileys
 </div>
 
 
-### thanks to
+### Thanks To
 
-> WhiskeySockets
->
-> Nstar
->
-> Techwiz
+<div align="center">
+
+[WhiskeySockets](https://github.com/WhiskeySockets/Baileys) — Base Project  
+[N-Star](https://github.com/N-star-dev) — Contributor  
+[Techwiz](https://github.com/TechwizDev) — Developer Inspiration  
+
+</div>
