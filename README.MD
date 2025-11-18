@@ -8,8 +8,11 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
+<div align="center">
+
 <p><em>Baileys Modified</em></p>
 
+</div>
 
 <img src="https://files.catbox.moe/7m4cuw.jpg" width="300" alt="Cover Banner" />
 
