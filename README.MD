@@ -51,6 +51,8 @@ yarn add @elrayyxml/baileys
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elrayyxml)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tik-tok.com/@elrayyxml)
+[![Email](https://img.shields.io/badge/Email-elrayy68@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elrayy68@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-6289526377530-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289526377530)
 
 </div>
 
@@ -61,15 +63,6 @@ yarn add @elrayyxml/baileys
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
   </a>
   
-</div>
-
-### Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-elrayy68@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elrayy68@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-6289526377530-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289526377530)
-
 </div>
 
 
