@@ -1,14 +1,10 @@
 {
   "name": "@elrayyxml/baileys",
-  "version": "1.0.0-rc.6",
+  "version": "1.0.2",
   "description": "Baileys Modified ElrayyXml",
   "keywords": [
     "baileys",
-    "bail",
-    "Costum",
-    "ElrayyXml",
     "elrayyxml",
-    "elrayy",
     "Baileys",
     "WhatsApp",
     "WhatsApp-API",
@@ -124,6 +120,7 @@
     "lib": "lib"
   }
 }
+
 
 
 
