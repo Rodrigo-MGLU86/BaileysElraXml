@@ -16,7 +16,7 @@
 
 <img src="https://files.catbox.moe/7m4cuw.jpg" width="300" alt="Cover Banner" />
 
----
+--
 
 - [x] Support Hosting (cPanel, Plesk, DirectAdmin, cyberPanel)
 - [x] No Need For FFMPEG
