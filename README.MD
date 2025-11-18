@@ -12,8 +12,11 @@
 - [x] Libsignal Updated
 - [x] No Spam Console
 - [x] Support send channel
-- [x] Fix LID
+- [x] Fix LID and Native LID
 - [x] Support button
+- [x] Fix Pairing
+- [x] AI Private
+- [x] Support Group SW and Album
 
 
 <div align="center">
@@ -57,7 +60,18 @@ yarn add @elrayyxml/baileys
   <a href="https://whatsapp.com/channel/0029Vb69z8n1dAvztHQTDu3r">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
   </a>
+  
 </div>
+
+### Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-elrayy68@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elrayy68@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289526377530)
+
+</div>
+
 
 ## Example
 
