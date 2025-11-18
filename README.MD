@@ -37,7 +37,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-API-green.svg?logo=whatsapp)](https://whatsapp.com)
 [![Node.js](https://img.shields.io/badge/Node.js-20%2B-green.svg)](https://nodejs.org)
 [![npm downloads](https://img.shields.io/npm/dt/@elrayyxml/baileys.svg?color=blueviolet&label=Downloads&logo=npm)](https://www.npmjs.com/package/@elrayyxml/baileys)
-[![Web API](https://img.shields.io/badge/API-v1.0.0-blue.svg)](https://api.elrayyxml.web.id)
+[![REST API](https://img.shields.io/badge/REST_API-Running-green.svg)](https://api.elrayyxml.web.id)
 
 </div>
 
