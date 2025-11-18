@@ -6,6 +6,8 @@
 
 </div>
 
+<img src="https://files.catbox.moe/dmz2fn.jpg" width="300" alt="Elaina Bail Banner" />
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 - [x] Support Hosting (cPanel, Plesk, DirectAdmin, cyberPanel)
 - [x] No Need For FFMPEG
