@@ -54,6 +54,7 @@
     "axios": "^1.6.0",
     "cache-manager": "^5.7.6",
     "cheerio": "^1.0.0-rc.10",
+    "fflate": "^0.8.2", 
     "jimp": "^0.16.1",
     "libphonenumber-js": "^1.10.20",
     "link-preview-js": "^3.0.0",
@@ -120,6 +121,7 @@
     "lib": "lib"
   }
 }
+
 
 
 
